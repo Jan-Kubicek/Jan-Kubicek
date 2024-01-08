@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jan Kubicek</h1>
 <h3 align="center">Student</h3>
 
-- 🌱 I’m currently learning **Java, JavaScript, Prolog**
+- 🌱 I’m currently learning **Java, JavaScript, SQL **
 
 - 📫 How to reach me **jenik1ku@seznam.cz**
 
